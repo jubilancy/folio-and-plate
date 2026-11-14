@@ -1,0 +1,6 @@
+{
+  "name": "Folio & Plate — Archival Tumblr Gallery Theme",
+  "description": "A bright minimalist archival gallery Tumblr HTML theme and live preview studio for vintage book covers, public domain plates, and printed ephemera.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
